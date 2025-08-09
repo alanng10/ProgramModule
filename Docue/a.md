@@ -61,3 +61,5 @@ Program has park cross.
 Program is did.
 
 Program has major.
+
+Program has major on type.
