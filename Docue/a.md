@@ -62,4 +62,4 @@ Program is did.
 
 Program has major.
 
-Program has major on type.
+Program has major on type. 
