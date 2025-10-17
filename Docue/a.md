@@ -50,10 +50,6 @@ Program has park kind arch marry.
 
 Program has park kind arch land.
 
-Program has park style.
-
-Program has park launch.
-
 Program has park mark.
 
 Program has park cross.
@@ -63,5 +59,9 @@ Program is did.
 Program has major.
 
 Program has major on type.
+
+Program has park style.
+
+Program has park launch.
 
 Program has notify.
